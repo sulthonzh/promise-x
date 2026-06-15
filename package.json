@@ -1,0 +1,20 @@
+{
+  "name": "promise-x",
+  "version": "1.0.0",
+  "description": "Zero-dependency promise utilities: concurrency-limited map, defer, timeout, waterfall, promisify, memoize, and more.",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "promise-x": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "keywords": ["promise", "async", "concurrency", "defer", "timeout", "waterfall", "promisify", "map", "filter", "reduce", "zero-dependency"],
+  "author": "sulthonzh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sulthonzh/promise-x"
+  }
+}
