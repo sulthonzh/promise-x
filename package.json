@@ -8,7 +8,7 @@
     "promise-x": "src/cli.js"
   },
   "scripts": {
-    "test": "node --test test/"
+    "test": "node --test"
   },
   "keywords": [
     "promise",
